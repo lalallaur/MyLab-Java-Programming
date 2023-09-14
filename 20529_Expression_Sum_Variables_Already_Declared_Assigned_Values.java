@@ -1,0 +1,1 @@
+verbalScore + mathScore
