@@ -1,1 +1,1 @@
-newRecord = oldRecord
+newRecord = oldRecord;
